@@ -1,0 +1,1 @@
+java -jar CRSGen.jar phone_ont.2.6.5.owl %* > product.crs
